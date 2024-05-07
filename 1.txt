@@ -1,2 +1,3 @@
 Hii,good morning,this is myfirst commit
-i amm from bechtle
+i am from bechtle
+i am a fresher
